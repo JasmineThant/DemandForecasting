@@ -1,0 +1,6 @@
+Demand Forecasting for Motors:
+
+Objective: 	Predict future demand for different types of motors based on historical sales data.
+Data: 		Past sales data, seasonality factors, marketing campaigns, or economic indicators.
+ML Techniques: 	Linear Regression, Decision Tree, Random Forest, Ridge Regression
+Impact: 		Helps the company manage inventory more effectively, ensuring motors are always in stock while reducing overstock.
